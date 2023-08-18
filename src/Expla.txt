@@ -1,0 +1,15 @@
+Image to adjacency
+
+Adjacency to Sparse adjacency
+
+Now Seam Carving
+
+Finding path with the minimm distance
+But inefficient
+
+Soo we use Dynamic Programing
+
+
+
+
+
